@@ -1,0 +1,4 @@
+*.o
+ktruss
+data
+*.csv
